@@ -12,7 +12,12 @@
    4. allow investment proposals to be created and voted
    5. execute successful investment proposals (i.e send money)
 4. ERC20 Tokens
-5. ERC721 Tokens
-6. Escrow
-7. Singple Pay Deed
-8. Multiple Pays Deed
+- A fictitious app implementing an ERC20 contract.
+6. ERC721 Tokens
+- A fictitious app implementing an ERC721 contract.
+7. Escrow
+- A fictitious app simulating an escrow operating with 3 contracts: payer, payee, and a 3rd party (attorney).
+8. Singple Pay Deed
+- A fictitious app simulating a deed contract with a singple payment.
+9. Multiple Pays Deed
+- A fictitious app simulating a deed contract with multiple pays over a period of time.
