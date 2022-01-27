@@ -23,3 +23,4 @@
 - A fictitious app simulating a deed contract with multiple pays over a period of time.
 10. NFT Marketplace built on Pologon network
 - A fictitious NFT marketplace to list NFTs for sale and purchase.
+- Tech stack: Next.js/Solidity/Hardhat
