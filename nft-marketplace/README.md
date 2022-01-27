@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# A NFT Marketplace built on Polygon network
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a simple NFT marketplace on Polygon network where users can list their NFTs for sale and others can purchase and support their NFT artwork. 
 
 Try running some of the following tasks:
 
